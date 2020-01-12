@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
-import { QuestionsService } from './questions.service';
-import { Quiz, Answers, Choice } from './quiz.model';
+import { QuestionsService } from './questions.service'; //check this
+import { Quiz, Answers, Choice } from './quiz.model'; //check this
 
 @Component({
   selector: 'app-root',
