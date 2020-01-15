@@ -1,10 +1,10 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
-import { AppComponent } from './app.component';
+import { AppComponent } from './app.component'; //check this
 
 import { HttpClientModule } from '@angular/common/http';
-import { QuestionFormComponent } from './question-form/question-form.component';
+import { QuestionFormComponent } from './question-form/question-form.component'; //check this
 import { ReactiveFormsModule } from '@angular/forms';
 import { ResultsComponent } from './results/results.component';
 import { WelcomeComponent } from './welcome/welcome.component';
